@@ -1,2 +1,1 @@
-# sql-tutorial
-The Ultimate SQL Tutorial
+# The Ultimate SQL Tutorial
